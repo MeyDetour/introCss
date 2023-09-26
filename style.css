@@ -1,10 +1,13 @@
-.bBleu{
-    border: 20px blue solid;
-    width: 1000px;
-    height: 1000px;
-}
-.vert{
-    border: 20px green solid;
-    width: 50px;
+.boiteRouge{
+    background-color: red;
     height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+
+.boiteBleue{
+    width: 95vw;
+    height: 95vh;
+    border: 5px blue solid;
 }
