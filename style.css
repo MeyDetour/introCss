@@ -10,3 +10,9 @@
     height: 95vh;
     border: 5px blue solid;
 }
+
+.violet{
+    border: 3px blueviolet solid;
+    width: 700px;
+    height: 350px;
+}
