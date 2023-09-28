@@ -1,7 +1,7 @@
 .vert{
     background-color: green;
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
 }
 
@@ -9,10 +9,12 @@
     width: 95vw;
     height: 95vh;
     border: 5px blue solid;
+    border-radius: 5%;
 }
 
 .violet{
+    color: blueviolet;
     border: 3px blueviolet solid;
-    width: 80vw;
-    height: 80vh;
+    width: 50vw;
+    height: 50vh;
 }
